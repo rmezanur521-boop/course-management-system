@@ -1,0 +1,6 @@
+{
+  "name": "Course Management System",
+  "description": "A high-performance Course Management portal with an interactive public course directory, student registration, enrollments, payments tracking, and a powerful admin control dashboard connected to FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
